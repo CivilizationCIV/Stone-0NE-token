@@ -1,1 +1,1 @@
-# new-token
+# stone-token
